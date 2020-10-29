@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-excalibur-krv/static/css/main.5db1380d.chunk.css",
+    "main.js": "/portfolio-excalibur-krv/static/js/main.8ce39ac0.chunk.js",
+    "main.js.map": "/portfolio-excalibur-krv/static/js/main.8ce39ac0.chunk.js.map",
+    "runtime-main.js": "/portfolio-excalibur-krv/static/js/runtime-main.0f2bbadf.js",
+    "runtime-main.js.map": "/portfolio-excalibur-krv/static/js/runtime-main.0f2bbadf.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/portfolio-excalibur-krv/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.5a9ae3c0.chunk.js": "/portfolio-excalibur-krv/static/js/2.5a9ae3c0.chunk.js",
+    "static/js/2.5a9ae3c0.chunk.js.map": "/portfolio-excalibur-krv/static/js/2.5a9ae3c0.chunk.js.map",
+    "index.html": "/portfolio-excalibur-krv/index.html",
+    "precache-manifest.77700ccd14d63011a29a0b169ee21b10.js": "/portfolio-excalibur-krv/precache-manifest.77700ccd14d63011a29a0b169ee21b10.js",
+    "service-worker.js": "/portfolio-excalibur-krv/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/portfolio-excalibur-krv/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/portfolio-excalibur-krv/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.5a9ae3c0.chunk.js.LICENSE.txt": "/portfolio-excalibur-krv/static/js/2.5a9ae3c0.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/portfolio-excalibur-krv/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/portfolio-excalibur-krv/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f2bbadf.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.5a9ae3c0.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.8ce39ac0.chunk.js"
+  ]
+}
